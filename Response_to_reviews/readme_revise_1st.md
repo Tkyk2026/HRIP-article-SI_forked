@@ -3,7 +3,8 @@
 (We greatly appreciate reviewer's insightful comment.)
 
 Below is the additional jupyternotebook.
-1. LOO.ipynb
+1. ```
+   LOO.ipynb
 This is code for $\mathit{LOO}$ (leave-one-out) 
 2. k-fold.ipynb
 This is code for $\mathit{k-fold}$ (k=5) 
